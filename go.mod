@@ -7,7 +7,7 @@ require (
 	github.com/go-playground/validator/v10 v10.4.1
 	github.com/rollbar/rollbar-terraform-importer/fetcher v0.0.0
 	github.com/rollbar/rollbar-terraform-importer/writer v0.0.0
-	golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/yaml.v2 v2.2.4 // indirect
 )
 
